@@ -1,6 +1,6 @@
 # 🛍️ BEWEAR – E-commerce Completo
 
-Projeto desenvolvido durante o **Bootcamp FSC** (Full Stack Club) de 03/08/2025 a 11/08/2025, com o objetivo de criar uma **loja virtual completa** para roupas masculinas e femininas.
+Projeto desenvolvido durante o **Bootcamp FSC** (Full Stack Club) de 03/08/2025 a 11/08/2025, com o objetivo de criar uma **loja virtual completa** para roupas masculinas e femininas.Repositório oficial: https://github.com/fullstackclubeducacao/bewear
 
 ## 🚀 Tecnologias Utilizadas
 
